@@ -1,7 +1,6 @@
 ---
 title: Data Center Annual Maintenance Scheduled May 22-28, 2024
-state: active
-severity: 2
+severity: 0
 ---
 
 Please be advised that due to the annual scheduled maintenance power

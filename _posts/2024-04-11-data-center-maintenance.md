@@ -1,7 +1,6 @@
 ---
 title: Data Center Annual Maintenance Scheduled May 22-28, 2024
-state: active
-severity: 1
+severity: 0
 ---
 
 Power has been turned back on. ESI Ironic is still experiencing

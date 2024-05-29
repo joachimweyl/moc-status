@@ -1,12 +1,16 @@
 ---
 title: Data Center Annual Maintenance Scheduled May 22-28, 2024
 state: active
-severity: 2
+severity: 1
 ---
+
+Power has been turned back on. ESI Ironic is still experiencing
+some issues. We plan to have the Ironic issue resolved by 11:30 pm.
+Thank you for your patience.
 
 Please be advised that due to the annual scheduled maintenance power
 outage at the MGHPCC data center, MOC Alliance (MOC A) services will
-be unavailable from 8 am on Wednesday, May 22nd, 2024, until 8 pm on
+be unavailable from 8 am on Wednesday, May 22nd, 2024, until 11:30 pm on
 Tuesday, May 28th, 2024.
 
 To ensure that the Mass Open Cloud team can prepare for the outage,
